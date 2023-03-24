@@ -47,4 +47,4 @@ In conclusion, this program demonstrates how to use TensorFlow and Keras to buil
 Credits
 -------
 
-The ASL Alphabet dataset used in this program was created by [tejaswinpotnuru](https://github.com/tejaswinpotnuru) and can be found on [Kaggle](https://www.kaggle.com/datamunge/sign-language-mnist). The code for this program was written by [Anonymous].
+The ASL Alphabet dataset used in this program was created by [tejaswinpotnuru](https://github.com/tejaswinpotnuru) and can be found on [Kaggle](https://www.kaggle.com/datamunge/sign-language-mnist). The code for this program was written by [Deepak](https://github.com/Deepak-0801).
